@@ -1,2 +1,2 @@
 # AI
-what
+personal AI projects
